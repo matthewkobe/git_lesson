@@ -7,3 +7,5 @@ This is a third change.
 Yet another change.
 
 Added this line from GitHub.
+
+Added this line on my_branch.
